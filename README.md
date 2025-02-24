@@ -39,9 +39,9 @@
   <img width="12" />
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
-  <img width="12" />
+  <img width="12" /> 
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maya/maya-original.svg" height="30" alt="maya logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maya/maya-plain-wordmark.svg" height="30" alt="maya logo"  />
   <img width="12" />
   
   <img src="https://skillicons.dev/icons?i=unreal" height="30" alt="unreal logo"  />
