@@ -9,7 +9,6 @@
 ## 🛠 Technologies and Tools
 
 <div align="left">
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
  
@@ -27,9 +26,9 @@
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="30" alt="C# logo"  />
   <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
-  <img width="12" /> 
+
+  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
+  <img width="12" />
   
   <img src="https://costechcomputers.com.ng/wp-content/uploads/2024/02/autodesk-maya-product-icon-social-400.webp" height="30" alt="maya logo"  />
   <img width="12" />
@@ -37,18 +36,14 @@
   <img src="https://skillicons.dev/icons?i=unreal" height="30" alt="unreal logo"  />
   <img width="12" />
 
-  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
-  <img width="12" />
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
+  <img width="12" /> 
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="12" />
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-
-
-
-  
+  <img width="12" />  
 </div>
 
 ---
